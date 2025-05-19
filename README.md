@@ -6,7 +6,7 @@
 For each of these entities, we identified and extracted a single, representative canonical image from its corresponding Wikipedia page.
 This image serves as a visual identifier for the entity.
 
-EI dataset comprises $1.80$M entities, each associated with a canonical image.
+EI dataset comprises 1.80M entities, each associated with a canonical image.
 
 **Mixed-Modal Image Retrieval (MMIR) dataset** is constructed by leveraging the comprehensive [Wikipedia Image Text (WIT) dataset](https://github.com/google-research-datasets/wit),
 which is a carefully curated dataset of 37 million image-text pairings, featuring 11 million distinct images and spanning more than 100 languages.
