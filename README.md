@@ -15,6 +15,9 @@ MMIR dataset encompasses over 9M examples spanning more than 100 languages, part
 we maintained the original data splits from the WIT dataset; specifically, each of the MMIR splits was derived from the corresponding WIT split through
 the entity annotation process.
 
+You can learn more about the datasets from our
+[arXiv paper](https://arxiv.org/abs/2506.02291).
+
 ## Download
 
 We believe that such a powerful diverse dataset will aid researchers in building
